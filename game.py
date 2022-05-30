@@ -1,4 +1,3 @@
-# from openpyxl import load_workbook
 import openpyxl
 import pygame
 from sys import exit
